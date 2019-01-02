@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.org/en/blog/blog-photos-on-phone/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/blog/blog-photos-on-phone/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/blog/the-nourish-box-august/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/blog/this-show-has-divided/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/blog/why-you-need-a-statement-bag-this-season/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/blog/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/blog/are-you-doing-the-right-way/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/blog/are-you-doing-the-right-way/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/blog/are-you-doing-the-right-way/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/blog/something-i-need-to-tell-you/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/blog/ten-things-about-business/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/contact/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/portfolio/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/service/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/about/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/</loc>
+    <lastmod>2019-01-01T16:45:33-07:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.org/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.org/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/tags/"
+                />
+  </url>
+  
+</urlset>
