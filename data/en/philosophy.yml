@@ -1,25 +1,25 @@
 enable    : true
-topTitle   : TIL Montana LITTLE MORE BRIEF
-title     : TIL Montana About Us.
+topTitle   : TLI Montana LITTLE MORE BRIEF
+title     : TLI Montana About Us.
 subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 tabItem   :
   - id        : philosophy
-    title     : TIL Montana Our Philosophy
-    heading   : TIL Montana We Create Designs and technology
+    title     : TLI Montana Our Philosophy
+    heading   : TLI Montana We Create Designs and technology
     content   : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
     image     : images/company/company-image.jpg
 
   - id        : mission
-    title     : TIL Montana Mission
-    heading   : TIL Montana Our Mission
+    title     : TLI Montana Mission
+    heading   : TLI Montana Our Mission
     content   : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
     image     : images/company/company-image-2.jpg
 
   - id        : vision
-    title     : TIL Montana Vision
-    heading   : TIL Montana Our Vision
+    title     : TLI Montana Vision
+    heading   : TLI Montana Our Vision
     content   : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
     image     : images/company/company-image-3.jpg

@@ -1,11 +1,11 @@
 enable  : true
 topTitle: TEAM MEMBER
-title   : TIL Montana Our Team.
+title   : TLI Montana Our Team.
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 
 member  :
   - image         : images/team/member-1.jpg
-    name          : TIL Montana Shawshank Redemption
+    name          : TLI Montana Shawshank Redemption
     designation   : Head Of Marketing
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.

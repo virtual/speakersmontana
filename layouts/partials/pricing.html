@@ -25,21 +25,23 @@
                         <div class="price-title bg-pricing">
                             {{ with .name }}<h3>{{.}}</h3>{{ end }}
                             {{ with .price }}<strong class="value">{{.}}</strong>{{ end }}
-                            {{ with .description }}<p>{{.}}</p>{{ end }}
                         </div>
                         {{ "<!-- plan description -->" | safeHTML }}
-                        <ul>
+                        {{ with .description }}<p>{{.}}</p>{{ end }}
+
+                        <!-- <ul>
                             {{ range .featurelist }}
                             <li>{{.item}}</li>
                             {{ end }}
-                        </ul>
+                        </ul> -->
                         {{ "<!-- signup button -->" | safeHTML }}
-                        <a class="btn btn-main" href="{{.btnURL}}">{{.btnText}}</a>
+                        
                     </div>
                 </div>
                 {{ end }}
             </div>
             <!-- End row -->
+            <p class="text-center"><a class="btn btn-main" href="{{.btnURL}}">{{.btnText}}</a></p>
         </div>
         <!-- End container -->
     </section>

@@ -17,3 +17,56 @@
     background: #fff;
     box-shadow: none;
   }
+
+  .hero-area .block {
+    color: #85BBA2;
+  }
+  p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  .hero-area .block p {
+    color: rgba(192, 218, 255, 0.9);
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  .btn-main, .btn-main-sm {
+    background-image: none;
+    background-color: #85BBA2;
+    border-bottom: 3px solid rgb(93, 133, 114);
+    color: #001146;
+    font-weight: 700;
+    transition: all .1s ease-in;
+    cursor: pointer;
+  }
+  .btn-main:hover, .btn-main-sm:hover {
+    margin-top: 1px;
+    background-color: rgb(157, 207, 184);
+
+    border-bottom-width: 2px;
+    color: #001146;
+
+  }
+
+  .navigation .navbar-nav>li>a {
+    color: rgba(192,218,255,.9);
+    transition: all .1s ease-in;
+    border-bottom: 3px solid transparent;
+  }
+  
+  .navigation .navbar-nav>li>a:hover {
+    color: rgba(192,218,255,.9);
+     border-bottom: 3px solid rgb(93, 133, 114);
+  }
+  
+  .bg-pricing { background-image: none; 
+    background-color: #001146;
+  }
+  .pricing-table .price-title>h3 {
+    color: #85BBA2;
+
+  }
+  .pricing-item p {
+    padding: 1rem;
+    font-size: 1rem;
+}

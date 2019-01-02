@@ -1,44 +1,18 @@
 enable  : true
-topTitle: EASY PRICING
-title   : TIL Montana Pricing.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: Cost
+title   : Ticket prices
+btnText     : Register
+btnURL      : https://www.eventbrite.com/e/2019-area-22-23-toastmasters-leadership-institute-tickets-53574271087?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 
 item  :
-  - name        : TIL Montana BASIC
-    price       : $99
-    description : Perfect for single freelancers who work by themselves
-    featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+  - name        : Toastmasters
+    price       : Free
+    description : Tickets are free for current Toastmasters
 
-  - name        : ADVANCE
-    price       : $199
-    description : Suitable for small businesses with up to 5 employees
-    featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+  - name        : Advance
+    price       : $50
+    description : Tickets purchased online prior to Feb. 1
 
-  - name        : PROFESSIONAL
-    price       : $299
-    description : Great for large businesses with more than 5 employees
-    featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+  - name        : At the Door
+    price       : $75
+    description : Tickets purchased at the door or on day of event

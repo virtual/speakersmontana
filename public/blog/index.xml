@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TIL Montana Blog on TIL Montana Example site multi-language</title>
+    <title>TLI Montana Blog on TLI Montana Example site multi-language</title>
     <link>https://example.org/blog/</link>
-    <description>Recent content in TIL Montana Blog on TIL Montana Example site multi-language</description>
+    <description>Recent content in TLI Montana Blog on TLI Montana Example site multi-language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>TIL Montana Blog Photos on Phone</title>
+      <title>TLI Montana Blog Photos on Phone</title>
       <link>https://example.org/blog/blog-photos-on-phone/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>TIL Montana Are You Doing the Right Way</title>
+      <title>TLI Montana Are You Doing the Right Way</title>
       <link>https://example.org/blog/are-you-doing-the-right-way/</link>
       <pubDate>Sat, 07 Jul 2018 17:04:41 +0600</pubDate>
       
