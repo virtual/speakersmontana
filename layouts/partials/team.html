@@ -12,23 +12,21 @@
                             <h2>{{ . }}</h2>
                             <span class="border"></span>
                         {{ end }}
-                        {{ with .subtitle }}<p>{{ . }}</p>{{ end }}
+                        
+                        {{ with .subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 {{ range .member }}
                     {{ "<!-- team member -->" | safeHTML }}
-                    <div class="col-12 col-md-3 col-sm-6">
+                    <div class="col-12">
                         <div class="team-member text-center">
-                            <div class="member-photo">
+                          <div>                            <div class="member-photo">
                                 <img class="img-fluid" src="{{.image | absURL }}" alt="team people">
+                                
                             </div>
-                            {{ "<!-- member name & designation -->" | safeHTML }}
-                            <div class="member-content">
-                                <h3>{{ .name }}</h3>
-                                <span>{{ .designation }}</span>
-                                <p>{{ .description }}</p>
+                                
                                 <ul class="list-inline">
                                     {{ with .facebookURL }}
                                     <li class="list-inline-item">
@@ -44,21 +42,36 @@
                                         </a>
                                     </li>
                                     {{ end }}
-                                    {{ with .gplusURL }}
+                                    {{ with .youtubeURL }}
                                     <li class="list-inline-item">
                                         <a href="{{.}}">
-                                            <i class="tf-ion-social-google-outline"></i>
+                                            <i class="tf-ion-social-youtube"></i>
                                         </a>
                                     </li>
                                     {{ end }}
-                                    {{ with .dribbbleURL }}
+                                    {{ with .youtubeURL2 }}
                                     <li class="list-inline-item">
                                         <a href="{{.}}">
-                                            <i class="tf-ion-social-dribbble"></i>
+                                            <i class="tf-ion-social-youtube"></i>
+                                        </a>
+                                    </li>
+                                    {{ end }}
+                                    {{ with .URL }}
+                                    <li class="list-inline-item">
+                                        <a href="{{.}}">
+                                            <i class="tf-ion-link"></i>
                                         </a>
                                     </li>
                                     {{ end }}
                                 </ul>
+                                </div>
+                            {{ "<!-- member name & designation -->" | safeHTML }}
+                            <div class="member-content">
+                                <h3>{{ .name }}</h3>
+
+                            
+                                <span>{{ .designation }}</span>
+                                <p>{{ .description | markdownify }}</p>
                             </div>
                         </div>
                     </div>

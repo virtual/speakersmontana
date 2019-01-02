@@ -1,45 +1,35 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : TLI Montana Our Team.
+topTitle: Featuring
+title   : Featured speakers
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
 
 member  :
   - image         : images/team/member-1.jpg
-    name          : TLI Montana Shawshank Redemption
-    designation   : Head Of Marketing
+    name          : Bridget Wilkinson, Keynote Speaker
+    designation   : Bozeman Area Community Foundation Executive Director
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Bridget Wilkinson hails from Moscow, Idaho. In 2013, Bridget became the first Executive Director for the Bozeman Area Community Foundation. In 2016, Bridget was named 20 Under 40 recipient, an honor that spotlights southwest Montana’s top young business professionals. Additionally, Bridget was selected to be one of ten executive directors in the US to participate in the CFLeads Executive Leadership Institute for community foundations. In 2018, Bridget was a TEDxBozeman speaker on how community can be a solution to the epidemic of loneliness. This year, she has been selected as a participant in the 2018-2019 Leadership Montana class. Currently, Bridget sits on the Bozeman Health Mission and Culture Board of Directors Committee.She has her master’s degree in Higher Education from Montana State University. 
+    youtubeURL: https://youtu.be/OFnUdoaIVpA
+    youtubeURL2: https://youtu.be/-3eBDzzh3XY
 
   - image         : images/team/member-2.jpg
-    name          : Leo Departure
-    designation   : Web Developer
+    name          : Kath Crumrine
+    designation   : Voice-Over Artist
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      "Much of my time as an adult has been devoted to mentoring and teaching others, as well as to improv and public speaking and live announcing. I love using my voice in all these ways – and I’ve had the unique challenge of working through my own debilitating performance anxiety – that I now use as tools to helps others not only empathize with it in their own process but help them overcome it."
+    URL   : https://kathcrumrine.com/
 
   - image         : images/team/member-3.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+    name          : Lori Marchak, MS PhD
+    designation   : Psychotherapist and Educator
+    description   : 
+     Lori is a gifted  counselor and co-owner of <a href="http://www.gallatinpsychotherapy.com" target="_blank" title="Gallatin Psychotherapy, Inc." rel="nofollow noopener noreferrer">Gallatin Psychotherapy, Inc.</a> She is known for her ability to work deeply and powerfully with clients, helping them achieve profound change. Lori works with couples and individuals suffering with relationship distress, trauma, and anxiety. Lori provides private intensives for couples and individuals traveling locally and nationally. She is an <a href="http://www.iceeft.com" target="_blank" title="ICEEFT" rel="nofollow noopener noreferrer">ICEEFT Certified Emotionally Focused Therapist and Supervisor</a>, and community leader in the development and training of effective couple therapy. With her romantic partner, she offers affordable, <a href="https://closecouples.com" target="_blank" title="weekend couple workshops" rel="nofollow noopener noreferrer">weekend couple workshops</a>. Lori is Certified in <a href="https://www.selfleadership.org/" target="_blank" title="Internal Family Systems" rel="nofollow noopener noreferrer">Internal Family Systems</a>, which enriches her work with individuals and couples.
+
 
   - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
+    name          : Joe Moriarty
+    designation   : Author and Educator
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+
