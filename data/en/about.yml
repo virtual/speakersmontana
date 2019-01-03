@@ -1,21 +1,21 @@
 enable  : true
 item    :
   - positionRight : false
-    image : images/about/about-1.jpg
+    image : images/about/2018-01.jpg
     title : 'The Power of Listening'
     author: Bridget Wilkinson, Exec. Dir. Bozeman Area Foundation
     description : >
       Listening is a superpower from which many of us fail to fully capitalize in our professional lives. Bridget's work with the Community Foundation helps Bozeman donors and nonprofits navigate the evolving needs of a rapidly growing Montana town. Listening is the key to helping our community partners, family and friends work together to make big things happen!
 
   - positionRight : true
-    image : images/about/about-2.jpg
+    image : images/about/2018-02.jpg
     title : Play With Your Voice
     author: Kath Crumrine, Voice Over Artist
     description : >
       Learn how to use your voice for greater impact in your personal and professional communications. You might know Kath as a voice of Coca-Cola, FedEx, Kohl's, HGTV, NBC, Microsoft, Macy's, and Pioneer. Now she will help you strengthen the impact and flavor of your own voice in an exclusive Bozeman workshop.
 
   - positionRight : false
-    image : images/about/about-1.jpg
+    image : images/about/2018-03.jpg
     title : 'Speaking From Your True Self'
     author: Lori Marchak, MS PhD, Psychotherapist and Educator
     description : >

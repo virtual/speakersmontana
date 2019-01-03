@@ -48,12 +48,15 @@
 
   }
 
-  .navigation .navbar-nav>li>a {
+  .navigation .navbar-nav>li>a, .navbar-brand {
     color: rgba(192,218,255,.9);
     transition: all .1s ease-in;
     border-bottom: 3px solid transparent;
   }
-  
+  .navbar-brand img { margin-right: 5px; }
+  .navbar-brand:hover {
+    color: #fff; 
+  }
   .navigation .navbar-nav>li>a:hover {
     color: rgba(192,218,255,.9);
      border-bottom: 3px solid rgb(93, 133, 114);
@@ -125,3 +128,13 @@ ul { list-style: disc; line-height: 1.6; font-size: 1.2rem;}
 img.img-fluid {
   /* width: 100px; */
 }
+
+img {
+  max-width: 100%; height: auto;
+}
+.about-img { width: 70%; margin: 0 15%; }
+.single-page-header .breadcrumb li a { color:#85BBA2}
+.top-footer p { font-size: 1rem;}
+.title h2 { text-transform: none;     color: rgb(0, 17, 70);
+}
+.call-to-action { background-color: rgb(0, 17, 70);}

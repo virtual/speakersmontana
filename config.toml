@@ -1,6 +1,6 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "TLI Montana | Toastmaster Leadership Institute"
+title = "Showing Up: The Power of Connecting With Each Other and Ourselves"
 theme = "navigator-hugo"
 
 # Build robots.txt file
@@ -34,21 +34,24 @@ DefaultContentLanguage = "en"
     [Languages.en]
     weight = 2
     languageCode = "en-us"
-    title = "TLI Montana, a statewide Toastmasters Leadership Institute"
+    title = "Showing Up: The Power of Connecting With Each Other and Ourselves"
     dateFormat = "January 2, 2006"
 
     home = "Home"
-    logo = "images/logo.png"
+    logo = "images/logos/tli-32.png"
+    logotitle = "TLI Montana"
     menufixed = false
 
     footerDescription = "TLI Montana, a statewide Toastmasters Leadership Institute, is a leadership-focused professional development experience, providing training, community and entertainment to professionals throughout Montana."
     footerSubscribeTitle = "TLI Montana Subscribe"
+    footerimg = "images/logos/toastmasters.png"
 
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
         heading = "Showing Up: The Power of Connecting With Each Other and Ourselves"
         #description = ""
+        subtitle = "Saturday, Feb. 2, 2019 · 8:30 AM&ndash;1:30 PM <br/> Bozeman Senior Center"
         description = "Compete in a group adventure challenge, network and meet area coaches, listen to inspirational speakers and meet local Toastmasters club members."
         button  = true
         btnText = "Register"
@@ -59,7 +62,8 @@ DefaultContentLanguage = "en"
     # About 2 Section
     [Languages.en.params.aboutSm]
         enable  = true
-        title   = "TLI Montana on Facebook"
+        img = "images/logos/toastmasters-tagline.png"
+        title   = "Toastmasters Leadership Institute Professional Development"
         subtitle = "TLI Montana, a statewide Toastmasters Leadership Institute, is a leadership-focused professional development experience, providing training, community and entertainment to professionals throughout Montana.  Kick off 2019 with a bright new spark in your relationships and professional goals! "
         #description = "TLI Montana, a statewide Toastmasters Leadership Institute, is a leadership-focused professional development experience, providing training, community and entertainment to professionals throughout Montana."
         description   = ""
@@ -102,7 +106,7 @@ DefaultContentLanguage = "en"
     # Call to Action Section on About Page
     [Languages.en.params.cta]
         enable  = true
-        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+        #bg      = "images/call-to-action/call-to-action-bg-2.jpg"
         title   = "Kick off 2019 with a bright new spark in your relationships and professional goals!"
         #subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
         #btnText = "Contact Us"

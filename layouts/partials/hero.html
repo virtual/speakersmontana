@@ -16,6 +16,9 @@
                     {{ with .Site.Params.hero.heading }}
                         <h2>{{ . }}</h2>
                     {{ end }}
+                    {{ with .Site.Params.hero.subtitle }}
+                        <p class="text-uppercase " style="font-weight: 700;">{{ . | markdownify  }}</p>
+                    {{ end }}
                     {{ with .Site.Params.hero.description | markdownify }}
                         <p>{{ . }}</p>
                     {{ end }}
