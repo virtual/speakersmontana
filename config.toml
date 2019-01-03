@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://virtual.github.io/speakersmontana/"
 languageCode = "en-us"
 title = "Showing Up: The Power of Connecting With Each Other and Ourselves"
 theme = "navigator-hugo"
