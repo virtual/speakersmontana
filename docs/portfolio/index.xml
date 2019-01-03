@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TLI Montana Portfolio on Showing Up: The Power of Connecting With Each Other and Ourselves</title>
-    <link>https://example.org/portfolio/</link>
+    <link>https://virtual.github.io/speakersmontana/portfolio/</link>
     <description>Recent content in TLI Montana Portfolio on Showing Up: The Power of Connecting With Each Other and Ourselves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate>
     
-	<atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://virtual.github.io/speakersmontana/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FRANCAIS Portfolio</title>
-      <link>https://example.org/portfolio/_index.fr/</link>
+      <link>https://virtual.github.io/speakersmontana/portfolio/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
       
-      <guid>https://example.org/portfolio/_index.fr/</guid>
+      <guid>https://virtual.github.io/speakersmontana/portfolio/_index.fr/</guid>
       <description></description>
     </item>
     

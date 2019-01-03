@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Showing Up: The Power of Connecting With Each Other and Ourselves</title>
-    <link>https://example.org/about/</link>
+    <link>https://virtual.github.io/speakersmontana/about/</link>
     <description>Recent content in About Us on Showing Up: The Power of Connecting With Each Other and Ourselves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
     
-	<atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://virtual.github.io/speakersmontana/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A propos de nous ...</title>
-      <link>https://example.org/about/_index.fr/</link>
+      <link>https://virtual.github.io/speakersmontana/about/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
       
-      <guid>https://example.org/about/_index.fr/</guid>
+      <guid>https://virtual.github.io/speakersmontana/about/_index.fr/</guid>
       <description></description>
     </item>
     
