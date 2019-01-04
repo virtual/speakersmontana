@@ -6,7 +6,7 @@ theme = "navigator-hugo"
 # Build robots.txt file
 enableRobotsTXT = true
 # google analytics tracking id
-googleAnalytics = ""
+googleAnalytics = "UA-131760267-1"
 
 enableGitInfo = true
 pygmentsCodeFences = true
@@ -49,7 +49,7 @@ DefaultContentLanguage = "en"
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
-        heading = "Showing Up: The Power of Connecting With Each Other and Ourselves"
+        heading = "Showing Up:<br/><small>The Power of Connecting With Each Other and Ourselves</small>"
         #description = ""
         subtitle = "Saturday, Feb. 2, 2019 · 8:30 AM&ndash;1:30 PM <br/> Bozeman Senior Center"
         description = "Compete in a group adventure challenge, network and meet area coaches, listen to inspirational speakers and meet local Toastmasters club members."

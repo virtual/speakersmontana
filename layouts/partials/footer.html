@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-3">
-                    <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+                    <a class="col1" href="{{ .Site.BaseURL }}">
                         <img src="{{ with .Site.Params.footerimg }}{{ . | absURL }}{{ end }}" alt="Toastmasters">
                     </a>
                 </div>
@@ -56,6 +56,7 @@
 {{ "<!-- Custom js -->" | safeHTML }}
 <script src="{{ "js/script.js" | absURL }}"></script>
 
-</body>
+{{ "<!-- Built with love by satinflame design -->" | safeHTML }}
 
+</body>
 </html>

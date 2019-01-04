@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131760267-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ with .Site.GoogleAnalytics }}{{.}}{{ end}}');
+</script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Navigator Hugo Template">
-<meta name="author" content="Themefisher.com">
+<meta name="description" content="Compete in a group adventure challenge, network and meet area coaches, listen to inspirational speakers and meet local Toastmasters club members.">
+<meta name="author" content="TLI Montana">
 {{ .Hugo.Generator }}
 
 <title>{{ .Site.Title }}</title>
@@ -28,13 +35,13 @@
 <link rel="stylesheet" href="{{ "plugins/slick-carousel/slick/slick-theme.css" | absURL }}">
 {{ "<!-- Main Stylesheet -->" | safeHTML }}
 
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"/>
+
 <!-- gestion de la personalisation de la css du theme -->
 {{ $style_original := resources.Get "css/style_original.css" }}
 {{ $style_site     := resources.Get "css/my_style.css" }}
 {{ $style := slice $style_original $style_site | resources.Concat "css/style.css" | minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 <!-- <link rel="stylesheet" href="{{ "css/style.css" | absURL }}"> -->
-
 </head>
-
 <body id="body">
