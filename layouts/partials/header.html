@@ -43,5 +43,16 @@
 {{ $style := slice $style_original $style_site | resources.Concat "css/style.css" | minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 <!-- <link rel="stylesheet" href="{{ "css/style.css" | absURL }}"> -->
+
+<meta name="keywords" content="tli, toastmasters, speakers, montana, learning, public" />
+<meta property="og:title" content="TLI Montana" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://virtual.github.io/speakersmontana/images/social/showing-up.jpg" />
+<meta property="og:url" content="https://speakersmontana.info/" />
+<meta property="og:site_name" content="TLI Montana" />
+<meta property="og:description" content="TLI Montana"/>
+<meta property="og:locale" content="en_us" />
+<link rel="image_src" href="https://virtual.github.io/speakersmontana/images/social/showing-up.jpg" />
+
 </head>
 <body id="body">
