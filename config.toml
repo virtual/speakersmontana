@@ -51,7 +51,7 @@ DefaultContentLanguage = "en"
         enable  = true
         heading = "Showing Up:<br/><small>The Power of Connecting With Each Other and Ourselves</small>"
         #description = ""
-        subtitle = "Saturday, Feb. 2, 2019 · 8:30 AM&ndash;1:30 PM <br/> Bozeman Senior Center"
+        subtitle = "<span class='tf-ion-android-calendar'><span class='sr-only'>Date</span></span> Saturday, Feb. 2, 2019 <br/><span class='tf-ion-android-time'><span class='sr-only'>Time</span></span> 9:00 AM&ndash;1:30 PM (Doors open 8:30 AM)<br/> <span class='tf-ion-android-pin'><span class='sr-only'>Map</span></span> <a href='https://goo.gl/maps/uNjBYkXcvsL2' target='_blank'>Bozeman Senior Center</a>"
         description = "Compete in a group adventure challenge, network and meet area coaches, listen to inspirational speakers and meet local Toastmasters club members."
         button  = true
         btnText = "Register"

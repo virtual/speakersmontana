@@ -30,15 +30,18 @@
   }
   .hero-area .block h2 { text-transform: uppercase; line-height: 1 }
   .hero-area .block h2, .hero-area .block p {
-     color: #001146 !important;
+     color: #001146;
   }
+  .hero-area .block p a {
+    color: inherit;
+  }
+  .hero-area .block p a:hover { text-decoration: underline;}
   
   p {
     font-size: 1.2rem;
     line-height: 1.5;
   }
   .hero-area .block p {
-    color: rgba(192, 218, 255, 0.9);
     font-size: 1.2rem;
     line-height: 1.5;
   }
@@ -171,3 +174,12 @@ footer .col1 img { width:100%; height: auto;}
 .video-player {
   position: relative;
 }
+.video-player { margin-bottom: 2rem;}
+.hero-area { padding: 50px 0; }
+@media (min-width: 768px) {
+  .hero-area { padding: 100px 0 60px 0; }
+}
+
+footer .col-12 { margin-bottom: 1rem;}
+.top-footer li a { line-height: 1.1; margin-bottom: .25rem;}
+.top-footer li a:hover, footer a:active, footer a:focus { color: #99CDCD; text-decoration: underline;}
