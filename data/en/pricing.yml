@@ -12,10 +12,10 @@ item  :
     price       : Free
     description : Tickets are free for current Toastmasters
 
-  - name        : Advance
+  - name        : Early Bird
     price       : $50
-    description : Tickets purchased online prior to Feb. 1
+    description : Tickets purchased online through Tuesday, January 29
 
-  - name        : At the Door
+  - name        : Regular Admission
     price       : $75
-    description : Tickets purchased at the door or on day of event
+    description : Tickets purchased after Tuesday, January 29
