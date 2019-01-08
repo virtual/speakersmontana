@@ -9,6 +9,9 @@
                     <!-- <a class="play-icon" href="javascript:void(0)">
                         <i class="tf-ion-play" data-video="{{ with .Site.Params.hero.videoURL }}{{.}}{{ end }}?autoplay=1"></i>
                     </a> -->
+                    {{ with .Site.Params.hero.videoCaption }}
+                        <p class="video-caption">{{ . | markdownify }}</p>
+                    {{ end }}
                 </div>
             </div>
             <div class="col-md-6">
@@ -36,5 +39,6 @@
             </div>
         </div>
     </div>
+    <a href="#about" class="scroll-to"><span class="tf-ion-chevron-down"><span class="sr-only">Scroll</span></span></a>
 </section>
 {{ end }}

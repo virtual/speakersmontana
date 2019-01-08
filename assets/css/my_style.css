@@ -177,9 +177,33 @@ footer .col1 img { width:100%; height: auto;}
 .video-player { margin-bottom: 2rem;}
 .hero-area { padding: 50px 0; }
 @media (min-width: 768px) {
-  .hero-area { padding: 100px 0 60px 0; }
+  .hero-area { padding: 80px 0 40px 0; }
 }
 
 footer .col-12 { margin-bottom: 1rem;}
 .top-footer li a { line-height: 1.1; margin-bottom: .25rem;}
 .top-footer li a:hover, footer a:active, footer a:focus { color: #99CDCD; text-decoration: underline;}
+footer .navbar-brand:hover {  color: #99CDCD; }
+section.hero-area {
+  position: relative;
+  width: 100%;
+  height: 100%;
+} 
+.scroll-to { 
+  position: absolute; 
+  /* bottom: 0; */
+  height: 3rem; width: 3rem;
+  bottom: -1.5rem;
+  border-radius: 999px; background-color: #001146; color: #fff; border: 2px solid #fff;
+  box-shadow: 0 0 4px #5e6782
+}
+  .scroll-to span { padding: 15px; display: inline-block;}
+  .scroll-to:hover,.scroll-to:active,.scroll-to:focus  { color: #99CDCD; }
+  .scroll-to:hover span { padding-top: 16px; padding-bottom: 14px;}
+
+
+  .video-caption { padding: 4px 0; font-size: 1rem; }
+  .video-caption a { color: #001146; }
+  html {
+    scroll-behavior: smooth;
+  }

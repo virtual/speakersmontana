@@ -4,15 +4,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
-                    <a class="col1" href="{{ .Site.BaseURL }}">
+                    <span class="col1">
                         <img src="{{ with .Site.Params.footerimg }}{{ . | absURL }}{{ end }}" alt="Toastmasters">
-                    </a>
+                    </span>
                 </div>
 
                 <div class="col-12 col-md-6 col-lg-3">
-                    <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+                    <span class="navbar-brand">
                         <img src="{{ with .Site.Params.logo }}{{ . | absURL }}{{ end }}" alt=""> {{ with .Site.Params.logotitle }}{{ . }}{{ end }}
-                    </a>
+                    </span>
                     {{ with .Site.Params.footerDescription }}<p>{{ . }}</p>{{ end }}
                 </div>
         
