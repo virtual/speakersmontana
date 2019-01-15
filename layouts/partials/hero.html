@@ -6,13 +6,14 @@
             <div class="col-md-6">
                 <div class="video-player">
                     <img class="img-fluid rounded" src="{{ with .Site.Params.hero.videoThumb }}{{.}}{{ end }}" alt="video-thumb">
-                    <!-- <a class="play-icon" href="javascript:void(0)">
+                    <a class="play-icon" href="javascript:void(0)">
                         <i class="tf-ion-play" data-video="{{ with .Site.Params.hero.videoURL }}{{.}}{{ end }}?autoplay=1"></i>
-                    </a> -->
-                    {{ with .Site.Params.hero.videoCaption }}
-                        <p class="video-caption">{{ . | markdownify }}</p>
-                    {{ end }}
+                    </a>
+                   
                 </div>
+                {{ with .Site.Params.hero.videoCaption }}
+                <p class="video-caption">{{ . | markdownify }}</p>
+            {{ end }}
             </div>
             <div class="col-md-6">
                 <div class="block">

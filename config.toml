@@ -57,7 +57,7 @@ DefaultContentLanguage = "en"
         btnText = "Register"
         btnURL  = "https://www.eventbrite.com/e/2019-area-22-23-toastmasters-leadership-institute-tickets-53574271087?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing"
         videoThumb = "images/slider/tli-banner.jpg"
-        videoURL   = "https://www.youtube.com/embed/yq93HKHMK6U"
+        videoURL   = "https://www.youtube.com/embed/scMd0prB-P4?rel=0"
         videoCaption = " <strong><a href='images/social/201902-showing-up.pdf' target='_blank'><span class='tf-ion-android-download'><span class='sr-only'>PDF</span></span>  Download Poster (PDF)</a></strong>"
 
     # About 2 Section
