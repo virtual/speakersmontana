@@ -446,7 +446,7 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background: #1f2532;
+  background: #001146;
   padding: 50px 0;
   text-align: center;
   color: #fff;
@@ -468,7 +468,7 @@ a:focus, a:hover {
 
 .navigation {
   transition: .3s all;
-  background: #1f2532;
+  background: #001146;
 }
 
 .navigation .navbar-nav > li.active a {
@@ -572,7 +572,7 @@ a:focus, a:hover {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: #1f2532;
+  background: #001146;
 }
 
 @media (max-width: 480px) {
